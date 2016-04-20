@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-theme-convoe",
+	"id": "nodebb-theme-zenith",
 	"hooks": [],
 	"scripts": [
 		"lib/convoe.js",
