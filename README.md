@@ -1,15 +1,25 @@
-Persona theme for NodeBB
-====================
+![Zenith](http://i.imgur.com/rAKJh2y.jpg)
 
-Persona is the new default theme for NodeBB as of v0.7.1
+A beautiful, responsive theme developed to be a perfect experience no matter what device it's viewed on. It makes your site look great on all devices or screen resolutions. We picked color schemes and an appropriate font family comfortable to the eye. 
 
-## Addons
 
-[Recent Cards](https://github.com/psychobunny/nodebb-plugin-recent-cards)
+###Features
 
-## Screenshots
+ * Built with: HTML5, CSS3, jQuery
+ * NodeBB 1.0.0+ compatible
+ * Cross Browser Compatible (IE9-11, FF, Chrome, Opera, Safari and Mobile)
+ * Social Media Sharing (Facebook, Twitter, Google+)
+ * Topic Thumbnails
+ * FontAwesome Icons + Streamline Icons
+ * Responsive media support (images, Vimeo & YouTube via iFramely)
 
-![](https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/570/286/570286-db378dfd28256a8fabacc9129b3638dc678ac393.png?1439315393)
 
-<br />
-![](https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/570/287/570287-5875c63ce086d361b76d94e5bc7cc88a5fd34b8b.png?1439315419)
+###Installation
+
+For now you will have to install this theme manually by downloading the file or cloning it to your ``NODEBB_ROOT/node_modules/`` directory and activating it via your NodeBB administrator panel.
+
+This theme is not published to NPM at this time.
+
+###Contributing
+
+Feel free to submit an issue for support via [Github Issue](https://github.com/cnvo/nodebb-theme-zenith/issues). 
