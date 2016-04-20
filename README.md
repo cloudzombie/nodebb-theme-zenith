@@ -1,8 +1,5 @@
 ![Zenith](http://i.imgur.com/rAKJh2y.jpg)
 
-A beautiful, responsive theme developed to be a perfect experience no matter what device it's viewed on. It makes your site look great on all devices or screen resolutions. We picked color schemes and an appropriate font family comfortable to the eye. 
-
-
 ###Features
 
  * Built with: HTML5, CSS3, jQuery
