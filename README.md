@@ -18,8 +18,7 @@ A beautiful, responsive theme developed to be a perfect experience no matter wha
 
 For now you will have to install this theme manually by downloading the file or cloning it to your ``NODEBB_ROOT/node_modules/`` directory and activating it via your NodeBB administrator panel.
 
-    npm install nodebb-theme-zenith
-
+This theme is not published to NPM at this time.
 
 ###Contributing
 
