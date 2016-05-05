@@ -1,5 +1,5 @@
 		</div><!-- END container -->
-		
+
 	</main>
 
 
@@ -53,7 +53,7 @@
 					<li><a href="/pages/faq">FAQ</a></li>
 					<li><a href="/pages/guidelines">Guidelines</a></li>
 					</ul>
-					<li class="made-in">Made with <i class="fa fa-heart"></i> in Atlanta</li>
+					<li class="made-in">Made with <i class="fa fa-heart"></i> in Portland</li>
 				</nav>
 			</div>
 			</div>
