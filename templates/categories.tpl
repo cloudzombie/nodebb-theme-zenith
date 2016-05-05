@@ -1,10 +1,10 @@
 <!-- IF !config.loggedIn -->
 <!--
 <script>
-$(window).on('action:ajaxify.start', function() { 
+$(window).on('action:ajaxify.start', function() {
 	$("html").removeClass("is-hidden");
 });
-$(window).on('action:ajaxify.end', function() { 
+$(window).on('action:ajaxify.end', function() {
 	$("html").addClass("is-hidden");
 });
 </script>
@@ -14,11 +14,11 @@ $(window).on('action:ajaxify.end', function() {
 <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
 <div class="content-notloggedin-welcome clearfix">
 <small class="content-notloggedin-intro">Beta</small>
-<div class="content-notloggedin-logo">Convoe</div>
+<div class="content-notloggedin-logo">Cannagrow</div>
 <h1 class="content-notloggedin-welcome-message">Your source for <span class="js-notloggedin-is"></span></h1>
-<h2 class="content-notloggedin-welcome-description">The internet's most interesting news, videos, celebrity gossip, and discussions all in one place. Join today for free!</h2>
+<h2 class="content-notloggedin-welcome-description">The internet's top cannabis news, videos, legal, advice and discussions all in one place. Join today free!</h2>
 <div class="content-notloggedin-action">
-<a href="{config.relative_path}/auth/twitter/callback" class="btn btn-notloggedin-sso"><i class="fa fa-twitter"></i> Twitter</a>
+<!-- <a href="{config.relative_path}/auth/twitter/callback" class="btn btn-notloggedin-sso"><i class="fa fa-twitter"></i> Twitter</a> -->
 <a href="{config.relative_path}/auth/facebook/callback" class="btn btn-notloggedin-sso"><i class="fa fa-facebook"></i> Facebook</a>
 <a href="{config.relative_path}/auth/google/callback" class="btn btn-notloggedin-sso"><i class="fa fa-google"></i> Google</a>
 </div>
@@ -32,14 +32,14 @@ $(window).on('action:ajaxify.end', function() {
 </div>
 <div class="content-notloggedin-footer">
 <ul>
-<li><a href="#" title="What is Convoe?">Learn more about Convoe</a></li>
-<li><a href="#" title="Learn how to use Convoe">Help &amp; FAQ</a></li>
+<li><a href="#" title="What is Cannagrow?">Learn more about Cannagrow</a></li>
+<li><a href="#" title="Learn how to use Cannagrow">Help &amp; FAQ</a></li>
 <li><a href="#">Work with us</a></li>
 </ul>
 </div>
-</div> 
+</div>
 <div class="content-notloggedin">
-	<div class="content-notloggedin-message">Sign up to see more stories and experience all of Convoe.</div>
+	<div class="content-notloggedin-message">Sign up to see more and experience all of Cannagrow.</div>
 	<div class="content-notloggedin-block">
 		<a class="btn btn-lg btn-notloggedin-register" href="{config.relative_path}/register">Register</a>
 		<a class="btn btn-lg btn-notloggedin-login" href="{config.relative_path}/login">Login</a>
